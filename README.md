@@ -1,5 +1,11 @@
 # Intro to React Workshop given at C4TK 2018
 
+## Goals
+
+- Basic React component
+- Introduce props & state
+- Render data delivered by an API
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
